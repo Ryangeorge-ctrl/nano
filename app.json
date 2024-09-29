@@ -1,0 +1,8 @@
+{
+  "name": "edu",
+  "description": "?",
+  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet",
+  "logo": "https://avatars.githubusercontent.com/u/174206539",
+  "keywords": ["school", "math"],
+  "image": "heroku/nodejs-corepack"
+}
